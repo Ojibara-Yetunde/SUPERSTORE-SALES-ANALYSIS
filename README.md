@@ -30,6 +30,7 @@ Profit — profit in USD
 ## Visualisation
 ![MonthlySalesTrend] (Outputs/MonthlySalesTrend.png)
 This shows that the monthly trend grow consistently,which shows strong business expansion
+
 ![YearlySalesTrend] (Outputs/YearlySalesTrend.png)
 This shows that the yearly trend grow consistently,which shows strong business expansion
 ## How to Reproduce
