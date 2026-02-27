@@ -16,16 +16,21 @@ Profit — profit in USD
 ## Tools Use
 -Excel
 ## Key Findings
-1.The Technology category generated the highest total profit: $550,000, while Furniture had the highest number of sales but lower profit margins.
-2.he West region contributed the most to overall sales (35% of total sales), but the Central region showed lower profitability despite moderate sales
-3.Orders above $1,000 accounted for 15% of total revenue but 30% of total returns, highlighting risk in high-ticket items.
-4.Revenue grew consistently from 2014-2017,showing strong business expansion
-5.19% of orders are loss-making, indicating pricing inefficiencies
-6.The Central region has the lowest profitability, likely due to high discount levels
+1.The Technology category generated the highest total profit: $550,000, while Furniture had the highest number of sales but lower profit margins
+2.Consumer drives volume with a total revenue of 51% but lowest margin of 12%,suggesting aggressive discounting
+3.The West region contributed the most to overall sales (35% of total sales), but the Central region showed lower profitability despite moderate sales
+4.The standard shipping mode has the highest revenue share of 59%,first class is slightly higher with 15%
+5.Orders above $1,000 accounted for 15% of total revenue but 30% of total returns, highlighting risk in high-ticket items.
+6.Revenue grew consistently from 2014-2017,showing strong business expansion
+7.19% of orders are loss-making, indicating pricing inefficiencies
+8.The Central region has the lowest profitability 8%, likely due to high discount levels 24%
+9.Furniture category is a major profitability concern,generating 32% of revenue but only 2% margin
+10.Discount strategy appears to be eroding margins,particularly in Furnuture and Central Region
 ## Visualisation
-![MonthlySalesTrend] <img width="1694" height="1115" alt="MonthlySalesTrend" src="https://github.com/user-attachments/assets/991635dd-039e-4cf1-82bf-061d959cfca1" />
+![MonthlySalesTrend] (Outputs/MonthlySalesTrend.png)
 This shows that the monthly trend grow consistently,which shows strong business expansion
-![YearlySalesTrend] <img width="1735" height="993" alt="YearlysalesTrend" src="https://github.com/user-attachments/assets/27fefa54-0b06-47ab-94e7-a49761396cfb" />
+![YearlySalesTrend] (Outputs/YearlySalesTrend.png)
+This shows that the yearly trend grow consistently,which shows strong business expansion
 ## How to Reproduce
 1. Clone this repo
 2. Install requirements: `pip install pandas matplotlib seaborn`
